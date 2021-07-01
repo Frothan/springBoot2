@@ -29,7 +29,7 @@ public class Client {
     }
 
     public void setName(String name) {
-        this.name = this.name;
+        this.name = name;
     }
 
     public String getEmail() {
@@ -37,7 +37,7 @@ public class Client {
     }
 
     public void setEmail(String email) {
-        this.email = this.email;
+        this.email = email;
     }
 
     // getter, setters, contructors
